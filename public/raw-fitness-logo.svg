@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" fill="none">
+  <!-- Background shield shape -->
+  <path d="M200 30 L340 90 L340 230 Q340 320 200 380 Q60 320 60 230 L60 90 Z" fill="#0d1f0f" stroke="#22c55e" stroke-width="4"/>
+
+  <!-- Dumbbell bar -->
+  <rect x="80" y="185" width="240" height="30" rx="8" fill="#22c55e"/>
+
+  <!-- Left weight plates -->
+  <rect x="62" y="165" width="28" height="70" rx="6" fill="#16a34a"/>
+  <rect x="42" y="172" width="24" height="56" rx="5" fill="#15803d"/>
+
+  <!-- Right weight plates -->
+  <rect x="310" y="165" width="28" height="70" rx="6" fill="#16a34a"/>
+  <rect x="334" y="172" width="24" height="56" rx="5" fill="#15803d"/>
+
+  <!-- RF Letters -->
+  <!-- R -->
+  <path d="M128 140 L128 260 M128 140 L165 140 Q185 140 185 165 Q185 188 165 188 L128 188 M158 188 L185 260" stroke="#22c55e" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- F -->
+  <path d="M205 140 L205 260 M205 140 L255 140 M205 195 L248 195" stroke="#ffffff" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- RAW text bottom -->
+  <text x="200" y="345" font-family="Arial Black, sans-serif" font-size="38" font-weight="900" fill="#22c55e" text-anchor="middle" letter-spacing="8">RAW</text>
+  <text x="200" y="375" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="6">FITNESS</text>
+</svg>
