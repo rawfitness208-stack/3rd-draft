@@ -102,16 +102,6 @@
     box-shadow: 0 0 60px rgba(204, 0, 0, 0.65);
   }
 }
-  background: linear-gradient(180deg, oklch(0.18 0.012 160), oklch(0.15 0.01 160));
-  border: 1px solid oklch(0.25 0.015 160);
-  border-radius: var(--radius);
-  transition: border-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
-  &:hover {
-    border-color: oklch(0.78 0.22 145 / 0.6);
-    transform: translateY(-4px);
-    box-shadow: var(--shadow-glow);
-  }
-}
 
 @utility section-pad {
   padding-top: 5rem;
